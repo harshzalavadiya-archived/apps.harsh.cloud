@@ -1,7 +1,7 @@
 {
-  "name": "static",
+  "name": "harsh.cloud",
   "version": "1.0.0",
-  "description": "This is a static template with no bundling",
+  "description": "Harsh's Applications",
   "main": "index.html",
   "scripts": {
     "start": "serve",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/hc-oss/harsh.cloud.git"
   },
   "keywords": [
     "static",
     "template",
     "codesandbox"
   ],
-  "author": "Ives van Hoorne",
+  "author": "Harsh Zalavadiya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/hc-oss/harsh.cloud/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/hc-oss/harsh.cloud#readme",
   "devDependencies": {
-    "serve": "^11.2.0"
+    "serve": "^12.0.1"
   }
 }
